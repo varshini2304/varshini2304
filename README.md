@@ -15,7 +15,7 @@
 - 🔭 Currently building: **Decentralized Threat Defense** – an AI-powered intrusion detection system secured by blockchain  
 - 🌱 Learning: Web3 security, Solidity, and cloud-based deployment  
 - 🛠️ Tech Stack: React • Node.js • Python • MongoDB • Solidity • TailwindCSS  
-- 🗣️ Languages: English • Kannada • Hindi
+- 🗣️ Languages: English • Kannada • Hindi•telugu
 
 ---
 
