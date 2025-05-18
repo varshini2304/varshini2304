@@ -1,15 +1,15 @@
-<h2 align="left">Hi 👋! My name is [Your Name] and I'm a [Your Role], from [Your Location]</h2>
+<h2 align="left">Hi 👋! My name is Varshini and I'm a Software Developer, from Bangalore</h2>
 
 ###
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=varshini2304&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&locale=en"
     height="150"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&layout=compact&langs_count=6&theme=dracula&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=varshini2304&layout=compact&langs_count=6&theme=dracula&hide_border=false"
     height="150"
     alt="Top Languages"
   />
