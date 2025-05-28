@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Varshini and I'm a Software Developer, from Bangalore</h2>
+<h2 align="left">Hi 👋! My name is Varshini M and I'm a Software Developer, from Bangalore</h2>
 
 ###
 
