@@ -29,7 +29,6 @@ I'm a passionate software developer with a knack for building innovative solutio
 - 🌱 **Learning**: Blockchain (Solidity, Web3.js), Machine Learning (TensorFlow, PyTorch)
 - 💬 **Ask me about**: React, Flutter, Dart, or anything tech-related!
 - 📫 **Reach me at**: [varshini0235@gmail.com](mailto:varshini0235@gmail.com)
-- ⚡ **Fun fact**: I can debug code faster than I can decide what to eat for lunch! 😄
 
 <br clear="both">
 
