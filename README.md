@@ -189,7 +189,7 @@ I'm a passionate software developer with a knack for building innovative solutio
   <a href="https://leetcode.com/u/tptycqzqa6/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.credly.com/badges/123456" target="_blank">
+  <a href="https://www.credly.com/users/varshini-m.c268f6d5/edit#credly" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=google-cloud" alt="Google Cloud" />
   </a>
 </div>
