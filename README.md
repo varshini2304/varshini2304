@@ -242,9 +242,6 @@ const varshini = {
 
 ### 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varshini2304&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
 <div align="center" style="margin-top: 30px;">
   <img 
     src="https://streak-stats.demolab.com?user=varshini2304&theme=dark&hide_border=true&border_radius=12" 
