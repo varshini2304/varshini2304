@@ -187,12 +187,6 @@ const varshini = {
 </div>
 
 <br/>
-
-<!-- Commit Timeline Animation -->
-<div align="center">
-  <h4>⏳ <strong>Development Timeline</strong></h4>
-</div>
-
 <br/>
 
 <!-- Animated Divider -->
