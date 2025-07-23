@@ -1,34 +1,51 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="30" height="30" />
-  Hi, I'm Varshini M
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star%20Struck.png" alt="🤩" width="30" height="30" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=120&section=header&text=Hi,%20I'm%20Varshini%20M&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Crafting+impactful+solutions!;Tech+Enthusiast+from+India!;Full+Stack+Developer!;AI+%26+Blockchain+Explorer!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Crafting+impactful+solutions!;Tech+Enthusiast+from+India!;Full+Stack+Developer!;AI+%26+Blockchain+Explorer!&color=00D9FF&background=000000" />
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varshini2304&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/varshini2304?label=Followers&style=social" alt="GitHub followers" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=varshini2304&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/varshini2304?label=Followers&style=for-the-badge&color=00D9FF&labelColor=000000" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/varshini2304?label=Stars&style=for-the-badge&color=00D9FF&labelColor=000000" alt="GitHub stars" />
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshini2304&bg_color=000000&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium%20Skin%20Tone.png" alt="👩‍💻" width="30" height="30" /> About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f221ff25da1aac7120a889cd216008dc.gif"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-I'm a passionate software developer with a knack for building innovative solutions and exploring cutting-edge technologies. Currently diving deep into **AI**, **Blockchain**, and **Full-Stack Development**, I love turning ideas into reality through code. Always curious, always learning!
+```javascript
+const varshini = {
+    pronouns: "She/Her",
+    location: "India 🇮🇳",
+    currentFocus: "AI & Blockchain Development",
+    technologies: {
+        frontend: ["React", "Flutter", "HTML5", "CSS3", "Tailwind"],
+        backend: ["Node.js", "Express", "Django", "MongoDB", "MySQL"],
+        languages: ["JavaScript", "Python", "Java", "C", "Dart"],
+        tools: ["Docker", "Git", "GCP", "TensorFlow", "OpenCV"]
+    },
+    currentProjects: ["Student Focus Monitoring System"],
+    goals: "Building innovative solutions that make a difference",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
-- 🔭 **Currently working on**: [Student Focus Monitoring System](#) (A project to enhance student engagement using AI)
-- 🌱 **Learning**: Blockchain (Solidity, Web3.js), Machine Learning (TensorFlow, PyTorch)
-- 💬 **Ask me about**: React, Flutter, Dart, or anything tech-related!
+- 🔭 **Currently working on**: [Student Focus Monitoring System](#) - An AI-powered tool to enhance student engagement
+- 🌱 **Learning**: Advanced Blockchain development with Solidity & Web3.js, ML with TensorFlow & PyTorch
+- 💬 **Ask me about**: React, Flutter, AI/ML, or anything tech-related!
 - 📫 **Reach me at**: [varshini0235@gmail.com](mailto:varshini0235@gmail.com)
+- ⚡ **Fun fact**: I can code for hours with just coffee and good music! ☕🎵
 
 <br clear="both">
 
@@ -38,149 +55,238 @@ I'm a passionate software developer with a knack for building innovative solutio
 
 <div align="center">
 
-| Project | Description | Status |
-|---------|-------------|---------|
-| **[Student Focus Monitoring System](#)** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="20" height="20" /> An AI-powered tool to track and improve student engagement in real-time | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Construction.png" alt="🚧" width="20" height="20" /> In Progress |
-| **[Portfolio Website](https://github.com/varshini2304/portfolio)** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="20" height="20" /> A sleek, responsive portfolio built with React and Tailwind CSS | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="✅" width="20" height="20" /> Complete |
-| **[Task Manager App](https://github.com/varshini2304/task-manager)** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="📱" width="20" height="20" /> A Flutter-based mobile app for productivity, integrated with Firebase | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="✅" width="20" height="20" /> Complete |
+| 🎯 Project | 📝 Description | 🚦 Status | 🔗 Links |
+|------------|----------------|-----------|----------|
+| **Student Focus Monitoring System** | 🧠 An AI-powered real-time student engagement tracking system using computer vision | 🚧 In Development | [Demo](#) \| [Code](#) |
+| **Portfolio Website** | 🖥️ Responsive portfolio built with React & Tailwind CSS with dark theme | ✅ Live | [Live](https://github.com/varshini2304/portfolio) \| [Code](#) |
+| **Task Manager App** | 📱 Flutter mobile app for productivity with Firebase integration | ✅ Complete | [App](#) \| [Code](https://github.com/varshini2304/task-manager) |
+| **Blockchain Voting System** | 🗳️ Secure voting system built with Ethereum smart contracts | 🚧 In Progress | [Demo](#) \| [Code](#) |
 
-</div>
-
-*Check out more on my [GitHub](https://github.com/varshini2304?tab=repositories)!*
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="30" height="30" /> Tech Stack
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="25" height="25" /> Frontend
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
-  </a>
-</p>
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="⚙️" width="25" height="25" /> Backend
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  </a>
-</p>
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="25" height="25" /> Data Science & ML
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/>
-  </a>
-</p>
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" alt="☁️" width="25" height="25" /> DevOps & Tools
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  </a>
-</p>
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="⌨️" width="25" height="25" /> Languages
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="30" height="30" /> GitHub Stats
-
-<div align="center">
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=varshini2304&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=varshini2304&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshini2304&theme=react&border_radius=10" alt="readme streak" />
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varshini2304&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="🐍" width="30" height="30" /> GitHub Activity Snake
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="30" height="30" /> Tech Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,html,css,js,nodejs,express,django,python,java,c,mongodb,mysql,docker,gcp,git,tensorflow,opencv,bootstrap,tailwind&theme=dark" alt="Tech Stack" />
+</div>
+
+#### 💻 Frontend Development
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
+
+#### ⚙️ Backend Development
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+#### 🧠 AI/ML & Data Science
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="30" height="30" /> GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=varshini2304&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=varshini2304&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshini2304&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+### 📈 Detailed Commit Activity
+
+<div align="center">
+  <h3>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35">
+    <strong>Interactive Development Analytics</strong>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35">
+  </h3>
+</div>
+
+<!-- Animated Main Activity Graph -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshini2304&theme=github_dark&border_radius=15" alt="📊 Yearly Commit Activity" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 217, 255, 0.3);"/>
+</div>
+
+<br/>
+
+<!-- Animated Statistics Row -->
+<div align="center">
+  <h4>🎯 <strong>Performance Analytics Dashboard</strong></h4>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varshini2304&theme=github_dark&border_radius=15" alt="📚 Repository Languages" style="margin: 10px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 217, 255, 0.2);"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varshini2304&theme=github_dark&border_radius=15" alt="💻 Most Used Languages" style="margin: 10px; border-radius: 15px; box-shadow: 0 4px 8px rgba(255, 107, 107, 0.2);"/>
+</div>
+
+<br/>
+
+<!-- Animated Lower Stats -->
+<div align="center">
+  <h4>⚡ <strong>Productivity & Performance Metrics</strong></h4>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varshini2304&theme=github_dark&border_radius=15" alt="📈 GitHub Statistics" style="margin: 10px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 255, 127, 0.2);"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varshini2304&theme=github_dark&utcOffset=5.5&border_radius=15" alt="⏰ Peak Coding Hours" style="margin: 10px; border-radius: 15px; box-shadow: 0 4px 8px rgba(255, 193, 7, 0.2);"/>
+</div>
+
+<br/>
+
+<!-- Advanced Analytics Section -->
+<div align="center">
+  <h4>🔥 <strong>Advanced Developer Insights</strong></h4>
+</div>
+
+<!-- Animated Contribution Calendar -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/00D9FF/varshini2304" alt="🗓️ Contribution Calendar" style="border-radius: 10px; border: 2px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.4);"/>
+</div>
+
+<br/>
+
+<!-- Code Frequency Graph -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varshini2304&show_icons=true&count_private=true&include_all_commits=true&custom_title=⚡%20Real-time%20GitHub%20Analytics&theme=dark&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&icon_color=FF6B6B&border_color=00D9FF&border_radius=15" alt="📊 Enhanced GitHub Stats" style="box-shadow: 0 0 25px rgba(0, 217, 255, 0.3);"/>
+</div>
+
+<br/>
+
+<!-- Interactive Progress Bars -->
+<div align="center">
+  <h4>📊 <strong>Language Proficiency Matrix</strong></h4>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshini2304&layout=compact&langs_count=12&theme=dark&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&border_color=FF6B6B&border_radius=15&custom_title=🔥%20Most%20Used%20Languages" alt="💻 Language Statistics" style="box-shadow: 0 0 25px rgba(255, 107, 107, 0.3);"/>
+</div>
+
+<br/>
+
+<!-- Commit Timeline Animation -->
+<div align="center">
+  <h4>⏳ <strong>Development Timeline</strong></h4>
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=varshini2304&bg_color=0d1117&color=00D9FF&line=FF6B6B&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&custom_title=📈%20Animated%20Contribution%20Timeline" alt="📈 Contribution Timeline" width="100%" style="border-radius: 15px; box-shadow: 0 0 30px rgba(0, 217, 255, 0.4);"/>
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<!-- Performance Metrics Cards -->
+<div align="center">
+  <h4>🚀 <strong>Performance Dashboard</strong></h4>
+</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshini2304&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=FF6B6B&fire=FFD700&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border_radius=15" alt="🔥 Contribution Streak" style="box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Animated Stats Overview -->
+<div align="center">
+  <h4>📋 <strong>Quick Stats Overview</strong></h4>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-1200+-00D9FF?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" alt="Total Commits"/>
+  <img src="https://img.shields.io/badge/Total%20PRs-50+-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Pull Requests"/>
+  <img src="https://img.shields.io/badge/Total%20Issues-25+-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" alt="Issues"/>
+  <img src="https://img.shields.io/badge/Total%20Stars-100+-00FF7F?style=for-the-badge&logo=star&logoColor=white&labelColor=000000" alt="Stars Earned"/>
+</div>
+
+<br/>
+
+<!-- Animated Progress Indicators -->
+<div align="center">
+  <h4>⚡ <strong>Development Progress Indicators</strong></h4>
+</div>
+
+<div align="center">
+  <img src="https://progress-bar.dev/85/?scale=100&title=JavaScript&width=200&color=F7DF1E&suffix=%&background=000000" alt="JavaScript Progress"/>
+  <img src="https://progress-bar.dev/80/?scale=100&title=Python&width=200&color=3776AB&suffix=%&background=000000" alt="Python Progress"/>
+  <img src="https://progress-bar.dev/75/?scale=100&title=React&width=200&color=61DAFB&suffix=%&background=000000" alt="React Progress"/>
+  <img src="https://progress-bar.dev/70/?scale=100&title=Flutter&width=200&color=02569B&suffix=%&background=000000" alt="Flutter Progress"/>
+</div>
+
+<br/>
+
+<!-- Real-time Activity Feed -->
+<div align="center">
+  <h4>📡 <strong>Real-time Activity Feed</strong></h4>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshini2304&bg_color=0d1117&color=00D9FF&line=FF6B6B&point=FFD700&area=true&area_color=1a1a2e&hide_border=true&custom_title=🎯%20Live%20Coding%20Activity%20Feed&height=300" alt="📊 Live Activity Feed" width="100%" style="border-radius: 15px; border: 2px solid #00D9FF; box-shadow: 0 0 40px rgba(0, 217, 255, 0.5);"/>
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=varshini2304&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 🐍 Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varshini2304/varshini2304/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varshini2304/varshini2304/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/varshini2304/varshini2304/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varshini2304/varshini2304/output/github-snake-dark.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/varshini2304/varshini2304/output/github-snake-dark.svg" />
   </picture>
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="30" height="30" /> Achievements
+### 🌟 Coding Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=varshini2304&theme=dark&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&hide_border=true" alt="WakaTime Stats"/>
+</div>
+
+---
+
+### 🏅 Achievements & Platforms
 
 <div align="center">
   <a href="https://www.hackerrank.com/@varshini0235" target="_blank">
@@ -189,28 +295,53 @@ I'm a passionate software developer with a knack for building innovative solutio
   <a href="https://leetcode.com/u/tptycqzqa6/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href="https://www.codechef.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://codeforces.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  </a>
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="🌐" width="30" height="30" /> Connect with Me
+### 🌐 Connect with Me
 
 <div align="center">
   <a href="https://github.com/varshini2304" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/varshini_m0235" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/varshini-m-25349527b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://twitter.com/varshini_m0235" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
   <a href="mailto:varshini0235@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.gg/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
 ---
+
+### 💝 Support My Work
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/varshini2304" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&border=true&quote_color=00D9FF&author_color=ffffff" alt="Random Dev Quote"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" alt="✨" width="25" height="25" />
@@ -219,9 +350,18 @@ I'm a passionate software developer with a knack for building innovative solutio
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=100&section=footer&fontSize=20&fontColor=ffffff&animation=twinkling"/>
 </div>
 
 <div align="center">
-  <h2>Let's build something amazing together! 🚀</h2>
+  <h2>🚀 Let's build something amazing together!</h2>
+  <p>Always open to collaborating on projects and innovative ideas.</p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+  <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source"/>
 </div>
