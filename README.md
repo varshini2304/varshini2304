@@ -14,9 +14,28 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshini2304&bg_color=000000&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub Activity Graph" width="100%"/>
+
+<div align="center" style="margin-top: 20px; font-family: 'Segoe UI', sans-serif;">
+  <h2 style="font-weight: 600; font-size: 1.6rem; color: #00D9FF; margin-bottom: 10px;">
+    📈 GitHub Contribution Activity
+  </h2>
+  <div style="
+    background: linear-gradient(135deg, #1f1f1f, #0f0f0f);
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 8px 30px rgba(0, 217, 255, 0.15);
+    width: 95%;
+    max-width: 1000px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  " onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 12px 40px rgba(0, 217, 255, 0.3)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 30px rgba(0, 217, 255, 0.15)'">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=varshini2304&theme=react-dark&hide_border=true&area=true&custom_title=" 
+      alt="GitHub Activity Graph"
+      style="width: 100%; border-radius: 12px;"
+    />
+  </div>
 </div>
+
 
 ---
 
