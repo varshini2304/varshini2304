@@ -245,6 +245,14 @@ const varshini = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=varshini2304&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
+<div align="center" style="margin-top: 30px;">
+  <img 
+    src="https://streak-stats.demolab.com?user=varshini2304&theme=dark&hide_border=true&border_radius=12" 
+    alt="GitHub Streak" 
+    style="width: 90%; max-width: 600px; border-radius: 12px; box-shadow: 0 0 20px rgba(0,217,255,0.2);"
+  />
+</div>
+
 
 
 ---
