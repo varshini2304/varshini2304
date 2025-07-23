@@ -264,17 +264,6 @@ const varshini = {
   <img src="https://github-profile-trophy.vercel.app/?username=varshini2304&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varshini2304/varshini2304/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varshini2304/varshini2304/output/github-snake-dark.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/varshini2304/varshini2304/output/github-snake-dark.svg" />
-  </picture>
-</div>
 
 ---
 
@@ -362,6 +351,5 @@ const varshini = {
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
   <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source"/>
 </div>
