@@ -329,9 +329,3 @@ const varshini = {
   <p>Always open to collaborating on projects and innovative ideas.</p>
 </div>
 
----
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source"/>
-</div>
