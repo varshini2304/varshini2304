@@ -193,29 +193,12 @@ const varshini = {
   <h4>⏳ <strong>Development Timeline</strong></h4>
 </div>
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=varshini2304&bg_color=0d1117&color=00D9FF&line=FF6B6B&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&custom_title=📈%20Animated%20Contribution%20Timeline" alt="📈 Contribution Timeline" width="100%" style="border-radius: 15px; box-shadow: 0 0 30px rgba(0, 217, 255, 0.4);"/>
-</div>
-
 <br/>
 
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-
-<!-- Performance Metrics Cards -->
-<div align="center">
-  <h4>🚀 <strong>Performance Dashboard</strong></h4>
-</div>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshini2304&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=FF6B6B&fire=FFD700&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border_radius=15" alt="🔥 Contribution Streak" style="box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);"/>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
