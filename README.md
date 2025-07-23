@@ -229,20 +229,6 @@ const varshini = {
 
 <br/>
 
-<!-- Animated Progress Indicators -->
-<div align="center">
-  <h4>⚡ <strong>Development Progress Indicators</strong></h4>
-</div>
-
-<div align="center">
-  <img src="https://progress-bar.dev/85/?scale=100&title=JavaScript&width=200&color=F7DF1E&suffix=%&background=000000" alt="JavaScript Progress"/>
-  <img src="https://progress-bar.dev/80/?scale=100&title=Python&width=200&color=3776AB&suffix=%&background=000000" alt="Python Progress"/>
-  <img src="https://progress-bar.dev/75/?scale=100&title=React&width=200&color=61DAFB&suffix=%&background=000000" alt="React Progress"/>
-  <img src="https://progress-bar.dev/70/?scale=100&title=Flutter&width=200&color=02569B&suffix=%&background=000000" alt="Flutter Progress"/>
-</div>
-
-<br/>
-
 <!-- Real-time Activity Feed -->
 <div align="center">
   <h4>📡 <strong>Real-time Activity Feed</strong></h4>
