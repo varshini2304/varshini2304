@@ -20,7 +20,7 @@
 
 ### 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"/>
 
 ```typescript
 const varshini: Engineer = {
