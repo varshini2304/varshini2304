@@ -20,7 +20,7 @@
 
 ### 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" alt="Coding" width="360" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ```typescript
 const varshini: Engineer = {
