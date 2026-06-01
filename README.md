@@ -38,7 +38,6 @@ const varshini: Engineer = {
   frontend:    ["React", "Next.js", "TypeScript",
                 "Flutter", "Tailwind CSS"],
   
-  blockchain:  ["Solidity", "Ethereum", "Web3.js"],
   
   databases:   ["PostgreSQL", "MySQL", "MongoDB",
                 "Redis", "SQLite"],
@@ -55,24 +54,20 @@ const varshini: Engineer = {
 
 - 🔭 **Major Project**: [StudyEye](#) — Real-time AI student engagement monitoring (PyTorch · TensorFlow.js · Flask · React)
 - 🧠 **Building**: Internal Document RAG Chatbot with LangChain + Vector DB
-- ⛓️ **Exploring**: Blockchain voting systems with Solidity + Ethereum
 - 📫 **Reach me**: [varshini0235@gmail.com](mailto:varshini0235@gmail.com) · [LinkedIn](https://linkedin.com/in/varshini-m-25349527b)
 
 ---
 
 ### 🚀 Featured Projects
 
-<div align="center">
-
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
 | **[StudyEye — AI Engagement Monitor](#)** | Real-time multimodal AI system tracking 20 students simultaneously. CNN emotion classifier (FER2013), 9-class behavior detection, privacy-first on-device processing | PyTorch · TensorFlow.js · Flask · React · OpenCV · Docker | 🟢 Production Ready |
 | **[Internal Document RAG Chatbot](#)** | Enterprise RAG pipeline with semantic search, LLM-powered Q&A over internal docs. Multi-model support: OpenAI, Gemini, Ollama | LangChain · FastAPI · Vector DB · React · PostgreSQL | 🔄 In Development |
-| **[Blockchain Voting System](#)** | Tamper-proof decentralized voting on Ethereum. Smart contract governance, MetaMask auth, full on-chain auditability | Solidity · Ethereum · Web3.js · React · Hardhat | 🟡 In Progress |
 | **[Finance Dashboard Backend](#)** | Production API system — Redis caching (50% latency cut), PostgreSQL optimization (40% DB load reduction), LLM-powered reporting | Spring Boot · PostgreSQL · Redis · Docker · JWT | 🟢 Complete |
 | **[SmartMed Healthcare Platform](#)** | Cross-platform app with AI symptom triage. RBAC for Doctor/Patient roles, 60% reduction in coordination effort | Flutter · Node.js · MongoDB · LLM API · JWT | 🟢 Complete |
 | **[Bluestock Fintech Website](#)** | Responsive fintech platform with live IPO/stock data feeds. 35% load time improvement | React · TypeScript · REST API · Node.js | 🟢 Live |
-
+| **[Toyota Meeting Room Booking System](https://github.com/varshini2304/Meeting_Room__Booking_and_employee_management_system)** | Enterprise-grade room booking platform — JWT auth, RBAC (Employee/Manager), conflict-free 30-min slot scheduling, email confirmations via NodeMailer, and real-time invite notifications | MERN · JWT · NodeMailer · MongoDB · Vite · Render · Vercel | 🟢 Live |
 </div>
 
 ---
