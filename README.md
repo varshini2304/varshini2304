@@ -26,7 +26,7 @@
 const varshini: Engineer = {
   location:    "India 🇮🇳",
   roles:       ["AI Engineer", "Full Stack Dev",
-                "Backend Engineer", "Blockchain Dev"],
+                "Backend Engineer"],
   
   backend:     ["Java", "Spring Boot", "FastAPI",
                 "Node.js", "Microservices"],
@@ -44,7 +44,7 @@ const varshini: Engineer = {
   
   devops:      ["Docker", "GitHub Actions", "CI/CD"],
   
-  currentFocus: "AI Engineering + Blockchain",
+  currentFocus: "AI Engineering ",
   openTo:       "Startups, AI Products, Remote Work",
   funFact:      "I built an AI that watches students 👁️"
 };
