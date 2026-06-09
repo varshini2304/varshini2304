@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Building+production-grade+AI+systems;Spring+Boot+%7C+Microservices+%7C+REST+APIs;LLM+Integration+%7C+RAG+%7C+AI+Agents;Blockchain+%7C+Solidity+%7C+Web3;Always+shipping+something+new...&color=00D9FF&background=00000000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Building+AI+systems;Spring+Boot+%7C+Microservices+%7C+REST+APIs;LLM+Integration+%7C+RAG+%7C+AI+Agents;Blockchain+%7C+Solidity+%7C+Web3;Always+shipping+something+new...&color=00D9FF&background=00000000" />
 </div>
 
 <br/>
