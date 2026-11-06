@@ -207,6 +207,70 @@ const varshini: AIEngineer = {
 
 ---
 
+### ⚡ Salesforce Development
+
+<div align="center">
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logoColor=white)
+![Agentforce](https://img.shields.io/badge/Agentforce-FF6B6B?style=for-the-badge&logoColor=white)
+![Flow Builder](https://img.shields.io/badge/Flow_Builder-8B5CF6?style=for-the-badge&logoColor=white)
+![Trailhead Ranger](https://img.shields.io/badge/Trailhead-Ranger-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Agentblazer Champion](https://img.shields.io/badge/Agentblazer-Champion_2026-FF6B6B?style=for-the-badge&logoColor=white)
+
+</div>
+
+<details>
+<summary><b>🏅 Credentials & Achievements</b></summary>
+<br/>
+
+| Badge | Detail |
+|---|---|
+| 🥇 Trailhead Ranger | Highest Trailhead rank — 100+ badges, 50,000+ points |
+| 🤖 Agentblazer Champion 2026 | Salesforce AI agent development credential |
+| 🏆 Apex Callout Superbadge | Hands-on external integration credential |
+
+</details>
+
+<details>
+<summary><b>🔧 Platform Skills</b></summary>
+<br/>
+
+**Core Development**
+- **Apex** — classes, server-side business logic, integration callouts, Apex-based agent actions
+- **Lightning Web Components (LWC)** — component-based UI, reactive components, Salesforce UI customisation
+- **SOQL & SOSL** — record querying, data retrieval, relationship queries
+- **Visualforce & Aura Components** — legacy Salesforce UI technologies
+
+**Automation & Flow Builder**
+- Record-Triggered Flows, Screen Flows, Autolaunched Flows, Scheduled Paths
+- Flow Trigger Explorer, decision logic, resource management, variable mapping
+- Error handling, fault-message configuration, Approval Processes
+
+**Integration**
+- Apex Callouts, REST API & SOAP API, Named Credentials, Connected Apps
+- JSON request/response processing, external API communication & error handling
+
+**Agentforce & Generative AI**
+- Agentforce Builder — agent topics, instructions, standard & custom actions
+- Prompt Builder, grounding agent responses in Salesforce data
+- Einstein Trust Layer, AI-agent security, permissions, governance & guardrails
+- Autonomous AI use cases, process mapping, human escalation design
+
+**Security & Admin**
+- Profiles, Permission Sets, object-level & field-level security
+- Record access, sharing settings, principle of least privilege
+- Validation rules, data quality, approval processes
+
+**Developer Tools**
+- Salesforce DX (SFDX), VS Code + Salesforce extensions, Developer Console
+- Workbench, Data Loader, Git & GitHub
+
+</details>
+
+---
+
 ### 💼 Experience
 
 ```
