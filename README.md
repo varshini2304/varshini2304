@@ -210,7 +210,7 @@ const varshini: AIEngineer = {
 ### 💼 Experience
 
 ```
-🏢  AI/ML Engineer                    NICHI-IN Software Solutions   Aug 2025 – Present
+🏢  AI/ML Engineer                    NICHI-IN Software Solutions   Aug 2025 – Sep 2026
 🎓  Software Developer Intern         Bluestock                     Apr – May 2025
 ```
 
