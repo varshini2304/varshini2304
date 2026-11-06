@@ -1,5 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a1a,100:0d1b2a&height=130&section=header&text=Varshini%20M&fontSize=55&fontColor=00D9FF&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%2C%20RAG%20%26%20Agentic%20AI&descSize=18&descAlignY=60&descColor=ffffff"/>
+
+<svg width="100%" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#000000"/>
+      <stop offset="50%" style="stop-color:#0a0a1a"/>
+      <stop offset="100%" style="stop-color:#0d1b2a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="130" fill="url(#bg)"/>
+  <path d="M0,80 C200,20 400,110 600,60 C800,10 1000,90 1200,50 L1200,130 L0,130 Z" fill="#0d1b2a" opacity="0.6"/>
+  <path d="M0,100 C150,50 350,120 550,80 C750,40 950,100 1200,70 L1200,130 L0,130 Z" fill="#00D9FF" opacity="0.08"/>
+  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="42" font-weight="bold" fill="#00D9FF">Varshini M</text>
+  <text x="50%" y="76%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#ffffff" opacity="0.85">AI Engineer · LLM, RAG &amp; Agentic AI</text>
+</svg>
+
 </div>
 
 <div align="center">
@@ -70,6 +85,7 @@ const varshini: AIEngineer = {
 | **[Toyota Meeting Room Booking & AI Workplace Assistant](https://github.com/varshini2304/Meeting_Room__Booking_and_employee_management_system)** | AI-powered enterprise workplace assistant layered onto the original booking platform — natural-language room search, attendance, and leave management. The LLM handles intent understanding and structured extraction only; the backend remains sole authority for business logic and writes. Every action is capability-authorized against server-derived identity, with human-in-the-loop confirmation required before any write executes | LLM Orchestration · React · TypeScript · Node.js · MongoDB · JWT · Vite | 🟢 Live |
 | **[Veritas — Multi-Agent AI Red-Teaming Framework](#)** | Attacker / Defender / Judge agents orchestrated in LangGraph automate adversarial LLM evaluation — prompt injection, jailbreaks, information-leakage. An evolutionary prompt-mutation loop, served via FastAPI, iteratively refines attacks from prior outcomes | LangGraph · FastAPI · Python | 🔄 In Development |
 | **[StudyEye — AI Engagement Monitor](#)** | Real-time multimodal pipeline — face detection, landmark tracking, head-pose, gaze, and posture — tracking up to 20 students at once, privacy-first and on-device. CNN-based emotion classifier trained on FER2013 across 7 classes | PyTorch · TensorFlow.js · OpenCV · Flask · React | 🟢 Production Ready |
+
 #### 🧱 Full-Stack & Backend
 
 | Project | Description | Stack | Status |
@@ -240,5 +256,16 @@ const varshini: AIEngineer = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a0a1a,100:000000&height=100&section=footer&animation=twinkling"/>
+<svg width="100%" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="footer-bg" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b2a"/>
+      <stop offset="50%" style="stop-color:#0a0a1a"/>
+      <stop offset="100%" style="stop-color:#000000"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="100" fill="url(#footer-bg)"/>
+  <path d="M0,30 C200,80 400,10 600,50 C800,90 1000,20 1200,60 L1200,0 L0,0 Z" fill="#0a0a1a" opacity="0.7"/>
+  <path d="M0,20 C150,60 350,5 550,40 C750,75 950,15 1200,45 L1200,0 L0,0 Z" fill="#00D9FF" opacity="0.06"/>
+</svg>
 </div>
